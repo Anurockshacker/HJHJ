@@ -1,0 +1,58 @@
+body{
+    font-family: cursive;
+    font-style:calc();
+    background-color: wheat;
+}
+.project {
+    margin-bottom: 2rem;
+}
+.project h3 {
+    margin: 0;
+}
+.project p {
+    margin-top: 0.5rem;
+}
+section {
+    padding: 2rem;
+}
+h1{
+    font-family:cursive;
+    color: black;
+    background-color: gray;
+}
+img{
+    border:1px solid #fff;    
+}
+header{
+    background-color: gray;
+ 
+    text-align: center;  
+}
+h2{
+    text-align: center;
+    font-weight: 5000;
+    text-decoration: underline;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    background-color:rgb(104, 105, 105);
+    padding: 1rem;  
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 1rem;
+    color: black;
+    text-decoration: underline;
+}
+ak{
+    font-family: cursive;
+    color: black;
+}
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: grey;
+    color: #fff;
+}
